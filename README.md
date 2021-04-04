@@ -6,8 +6,8 @@
 ✨ I love design and coding <img src="https://media.giphy.com/media/m3ArSNOBS1UbhwKTCp/source.gif" width="30px">
 
 <hr>
-📫 How to reach me : <br>
-📫 You can reach me via <br><a href="https://www.instagram.com/tioramadhn" style="font-weight:bold;">Instagram</a> | <a href="mailto:tioramadhntio@apps.ipb.ac.id" target="_blank">Email</a> | <a href="https://www.linkedin.com/in/tio-ramadhan-ab77431a2/">Linkedln</a> | <a href="https://www.youtube.com/UwUDesign">Youtube</a> 
+📫 Get In Touch : <br>
+<a href="https://www.instagram.com/tioramadhn" style="font-weight:bold;">Instagram</a> | <a href="mailto:tioramadhntio@apps.ipb.ac.id" target="_blank">Email</a> | <a href="https://www.linkedin.com/in/tio-ramadhan-ab77431a2/">Linkedln</a> | <a href="https://www.youtube.com/UwUDesign">Youtube</a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tioramdhntio&layout=compact&theme=react)](https://github.com/tioramdhntio/)
 
