@@ -1,4 +1,4 @@
-### Assalamualaikum 
+### Assalamu'alaikum 
 
 # Hello fellas, I am Tio Ramadhan
 
