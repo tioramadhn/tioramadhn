@@ -1,6 +1,6 @@
 ### Assalamualaikum 
-<img src="https://media.giphy.com/media/24b8vkacKFitXv9Qq1/source.gif" width="30px"> <img src="https://media.giphy.com/media/24b8vkacKFitXv9Qq1/source.gif" width="30px">
-##### Hello fellas, I am Tio Ramadhan 
+<img src="https://media.giphy.com/media/24b8vkacKFitXv9Qq1/source.gif" width="30px"> 
+# Hello fellas, I am Tio Ramadhan <img src="https://media.giphy.com/media/24b8vkacKFitXv9Qq1/source.gif" width="30px">
 
 🌱 I’m currently learning computer science at IPB University. <br>
 ✨ I love design and coding <img src="https://media.giphy.com/media/m3ArSNOBS1UbhwKTCp/source.gif" width="30px">
