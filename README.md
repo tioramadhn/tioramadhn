@@ -1,4 +1,4 @@
-### Hi there 👋  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there 👋  <img src="https://media.giphy.com/media/24b8vkacKFitXv9Qq1/giphy.mp4" width="30px">
 
 Hello fellas, I am Tio Ramadhan
 
