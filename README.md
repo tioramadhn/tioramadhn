@@ -2,7 +2,7 @@
 
 Hello fellas, I am Tio Ramadhan
 
-🌱 I’m currently learning computer science at IPB University.
+🌱 I’m currently learning computer science at IPB University. <br>
 ✨ I love design and coding
 
 - 📫 How to reach me: ...
