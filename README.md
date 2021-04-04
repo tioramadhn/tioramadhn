@@ -7,7 +7,7 @@ Hello fellas, I am Tio Ramadhan
 <br>
 <hr>
 - 📫 How to reach me : <br>
-📫 You can reach me via <a href="https://www.instagram.com/tioramadhn" target="blank">Instagram</a> | <a href="mailto:tioramadhntio@apps.ipb.ac.id" target="_blank">Email</a> | <a href="https://www.linkedin.com/in/tio-ramadhan-ab77431a2/">Linkedln</a>
+📫 You can reach me via <a href="https://www.instagram.com/tioramadhn" style="font-weight:bold;">Instagram</a> | <a href="mailto:tioramadhntio@apps.ipb.ac.id" target="_blank">Email</a> | <a href="https://www.linkedin.com/in/tio-ramadhan-ab77431a2/">Linkedln</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tioramdhntio&layout=compact&theme=react)](https://github.com/tioramdhntio/)
 
