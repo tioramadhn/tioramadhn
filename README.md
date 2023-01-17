@@ -3,7 +3,7 @@
 # Hello fellas, I am Tio Ramadhan
 
 🌱 I’m currently learning computer science at IPB University. <br>
-✨ I love design and coding <img src="https://media.giphy.com/media/m3ArSNOBS1UbhwKTCp/source.gif" width="30px">
+✨ I love coding <img src="https://media.giphy.com/media/m3ArSNOBS1UbhwKTCp/source.gif" width="30px">
 
 <hr>
 📫 Get In Touch : <br>
