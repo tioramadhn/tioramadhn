@@ -1,13 +1,6 @@
 # Hi, I'm Tio Ramadhan 👋
 
-Frontend-focused full-stack developer building production-grade web apps — currently shipping internet banking features to thousands of customers at **CIMB Niaga**.
-
----
-
-## 🚀 What I'm working on
-
-**OCTO by CIMB Niaga** — rebuilding Indonesia's internet banking platform from scratch with a modern Micro-Frontend architecture.  
-Turborepo + Vite Module Federation cut build times from **30 min → 2–3 min**. Shipped investment flows, WhatsApp OTP, transaction history, and UIKit components.
+Frontend-focused full-stack developer building production-grade web apps — currently shipping internet banking features to thousands of customers.
 
 ---
 
